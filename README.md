@@ -14,7 +14,9 @@
 
 # 前言
 
-**项目PHP前端地址：** <a href="https://github.com/lmxdawn/vue-admin-html" target="_blank">https://github.com/goleden/vue-admin-html</a>
+**项目前端地址：** <a href="https://github.com/goleden/vue-admin-html" target="_blank">https://github.com/goleden/vue-admin-html</a>
+
+**项目后端地址：** <a href="https://github.com/goleden/vue-admin-php" target="_blank">https://github.com/goleden/vue-admin-php</a>
 
 # 欢迎 star
 
