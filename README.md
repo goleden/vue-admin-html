@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="320" src="https://lmxdawn.github.io/images/lmxdawn.png">
-</p>
+
 
 <p align="center">
   <a href="https://github.com/vuejs/vue">
@@ -16,21 +14,10 @@
 
 # 前言
 
-**项目PHP前端地址：** <a href="https://github.com/lmxdawn/vue-admin-html" target="_blank">https://github.com/lmxdawn/vue-admin-html</a>
-
-**项目JAVA前端地址：** <a href="https://github.com/lmxdawn/vue-admin-html-java/tree/java-api" target="_blank">https://github.com/lmxdawn/vue-admin-html-java</a>
-
-**项目JAVA后端地址：** <a href="https://github.com/lmxdawn/vue-admin-java" target="_blank">https://github.com/lmxdawn/vue-admin-java</a>
-
-**项目PHP后端地址：** <a href="https://github.com/lmxdawn/vue-admin-php" target="_blank">https://github.com/lmxdawn/vue-admin-php</a>
+**项目PHP前端地址：** <a href="https://github.com/lmxdawn/vue-admin-html" target="_blank">https://github.com/goleden/vue-admin-html</a>
 
 # 欢迎 star
 
-# 整体效果
-
-![donate](https://lmxdawn.github.io/images/show-how1.jpg)
-
-# 目前 v3.0.0 版本 <a href="https://github.com/lmxdawn/vue-admin-html/tree/v1.0.0" target="_blank">点击前往 v1.0.0 版本</a>
 ## 更新日志
 - [x] 更新vue-cli为3.0版本 <a href="https://segmentfault.com/a/1190000015133974">这里有篇文章</a>
 - [x] 增加广告管理
@@ -38,9 +25,9 @@
 - [x] 优化一些配置文件
 - [x] 登录用户信息存储改为 cookie
 
-# 一键操作包 <a href="https://pan.baidu.com/s/1gBPdt5IdDKhATNka1l1xOg" target="_blank">点击下载</a>
+# 一键操作包 
 
-1. 集成环境搭建: windows 上面建议用 phpstudy ,其它环境自行百度
+1. 环境搭建，略
 2. 把两个文件放到网站根目录
 3. 把MySQL的root密码改为 root, 再新建数据库 vue-admin ,再把vue-admin.sql 文件导入到MySQL
 4. 打开浏览器 输入 http://localhost/vue-admin-html/dist/index.html
@@ -56,29 +43,14 @@
 > Vue-cli3.0 + Element UI + ThinkPHP5.1 + RBAC权限 + 响应式的后台管理系统
 
 
-## 权限演示
-
-![donate](https://lmxdawn.github.io/images/rule.gif)
-
-## 路由规则图示
+## 路由规则
 
 >   路径: vue-admin-html/src/router/index.js
 
-![donate](https://lmxdawn.github.io/images/router.png)
 
 ## env 配置说明
 
 >   路径: vue-admin-html/.env.development
-
-![donate](https://lmxdawn.github.io/images/env.png)
-
-## 手机版演示
-
-![donate](https://lmxdawn.github.io/images/phone.gif)
-
-## 上传插件演示
-
-![donate](https://lmxdawn.github.io/images/upload.gif)
 
 ## 添加 阿里巴巴矢量图演示
 
@@ -86,13 +58,7 @@
 
 1.第一步 选好一个图标加入到购物车 -> 把购物车的添加都项目 -> 下载项目到本地
 
-![donate](https://lmxdawn.github.io/images/icon1.gif)
-
 2.第二步 解压下载好的文件 -> 复制到 src/assets/icons , 覆盖掉 -> 增加 iconfont.js 的 eslint 注释
-
-![donate](https://lmxdawn.github.io/images/icon2.gif)
-
-
 
 
 ## 功能 ##
@@ -109,7 +75,7 @@
 
 ## 安装步骤 ##
 
-	git clone https://github.com/lmxdawn/vue-admin-html.git      // 把模板下载到本地
+	git clone https://github.com/goleden/vue-admin-html.git      // 把模板下载到本地
 	cd vue-admin-html    // 进入模板目录
 	npm install         // 安装项目依赖，等待安装完成之后
 	
@@ -242,18 +208,8 @@
 └── vue.config.js                           // 构建项目的配置文件
 ```
 
-# Online Demo
- （建议使用最新版Chrome浏览器）
-[在线 Demo](https://lmxdawn.github.io/vue-admin)
-
 # Donate
 鼓励鼓励鼓励，重要的事情说三遍 
-![donate](https://lmxdawn.github.io/images/pay.png)
 
 
-# License
-
-[MIT](https://github.com/lmxdawn/vue-admin-html/blob/master/LICENSE)
-
-Copyright (c) 2018 lmxdawn
 
